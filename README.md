@@ -1,29 +1,48 @@
-👋 Hi, I’m Nguyen Le (Tom)
+# 👋 Hi, I’m Nguyen Le (Tom)  
+💻 Senior Software Engineer | System Architect | Full-Stack Developer  
 
-💻 Senior Software Engineer | Full-Stack Developer | System Architect
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&width=435&lines=Backend+%26+Frontend+Architect;4%2B+Years+of+Experience;Building+Scalable+Systems;Lifelong+Learner+%26+Tech+Explorer" alt="Typing SVG" />
+</p>
 
-I design and build scalable, high-performance systems that bridge backend reliability with frontend elegance. With 4+ years of experience across Java, Spring, Hibernate, JPA, Struts, React/Next.js, FastAPI, PostgreSQL, Oracle, I thrive on solving complex problems and delivering production-ready solutions for enterprises and SMEs.
+---
 
-🚀 About Me
+## 🚀 Tech Arsenal
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,python,fastapi,react,nextjs,typescript,postgres,oracle,docker,aws" />
+</p>
 
-🔧 Passionate about backend architecture, data-intensive applications, and API-driven systems.
+---
 
-🌐 Experienced in SaaS, fintech, healthcare, and enterprise platforms.
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gitbookfan01&theme=radical" alt="Streak Stats"/>
+</p>
 
-📊 Advocate for clean code, performance optimization, and security-first design.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gitbookfan01&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitbookfan01&layout=compact&theme=radical" alt="Top Langs"/>
+</p>
 
-🎯 Currently focused on AI-driven software services and scalable SaaS solutions.
+---
 
-🛠️ Tech Stack
+## 🌱 Current Focus
+- 🚀 Scaling **SaaS platforms** for global SMEs  
+- 🧠 Integrating **AI/LLMs** into enterprise workflows  
+- 🔒 Building **secure, fault-tolerant backend systems**  
 
-Languages & Frameworks:
-Java (Spring, Struts, JSP), Python (FastAPI), JavaScript/TypeScript (React, Next.js), SQL, PL/SQL
+---
 
-Databases:
-PostgreSQL, Oracle 19c, MyBatis, Hibernate, Elasticsearch, Cassandra
+## 🏆 Achievements
+- ⚡ Optimized enterprise queries → reduced processing time **40%+**  
+- 🏥 Built healthcare imaging system handling **thousands of patient scans**  
+- 🎯 Led backend design for **AI-powered invoice extraction** pipeline  
 
-Tools & Platforms:
-Docker, AWS, Vercel, Testcontainers, JasperReport, Apache POI, Kendo UI
+---
 
-Other Expertise:
-SOAP & REST APIs, WS-Security, Vault & Keystores, Performance Tuning, Caching (EhCache)
+## 📫 Connect With Me
+<p align="center">
+  <a href="mailto:info.hongphucsoftware@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.hongphucsoftware.com"><img src="https://img.shields.io/badge/Website-0078D4?style=for-the-badge&logo=Microsoft-edge&logoColor=white"/></a>
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
