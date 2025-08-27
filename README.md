@@ -26,10 +26,10 @@
 
 ---
 
-## 🌱 Current Focus
-- Scaling **SaaS platforms** for global SMEs  
-- Integrating **AI/LLMs** into enterprise workflows  
-- Building **secure, fault-tolerant backend systems**  
+## 🌐 Domain Expertise
+- **Healthcare Solutions** – patient access portals, medical imaging systems, secure data handling  
+- **Financial / Enterprise SaaS** – invoice extraction pipelines, scalable multi-tenant platforms  
+- **Metaverse & 3D Platforms** – interactive real-time 3D engine for social & media applications  
 
 ---
 
