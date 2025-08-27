@@ -37,8 +37,8 @@
 - Optimized **enterprise queries** → reduced processing time **40%+**  
 - Built **healthcare imaging system** handling thousands of patient scans  
 - Led backend design for **AI-powered invoice extraction pipeline**  
-- Improved **case search performance** by refactoring algorithm from **O(n²) → O(n+m)**,  
-  applying Java OOP design patterns, and consolidating queries → reduced response time from **50s → ~5s**  
+- Improved **case search performance** by refactoring multiple algorithms
+  applying Java OOP design patterns, and consolidating queries → reduced response time 80%
 
 ---
 
